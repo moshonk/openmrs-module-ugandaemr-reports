@@ -70,7 +70,7 @@ public class SetupMOH105MaternityReportBuilder extends UgandaEMRDataExportManage
 
     @Override
     public String getName() {
-        return "HMIS 105 MCH - 2.2 MATERNITY";
+        return "HMIS 105 - SECTION 2.2: MATERNITY";
     }
 
     @Override

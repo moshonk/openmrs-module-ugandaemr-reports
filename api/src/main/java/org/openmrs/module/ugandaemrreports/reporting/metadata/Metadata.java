@@ -48,6 +48,17 @@ public class Metadata {
     	public static final String PRETEST_COUNSELING_DONE = "193039f1-c378-4d81-bb72-653b66c69914";
 		public static final String CURRENT_HIV_TEST_RESULTS = "3d292447-d7df-417f-8a71-e53e869ec89d";
 		public static final String TIMES_TESTED_IN_LAST_12_MONTHS = "8037192e-8f0c-4af3-ad8d-ccd1dd6880ba";
+		public static final String HIV_TEST = "d6522d62-093d-4157-a9d3-9359d1a33480";
+		public static final String RECEIVED_HIV_TEST_RESULTS = "ad2884a2-830f-4ca8-bc1e-1e1fd2df0f81";
+		public static final String HIV_POSITIVE = "dcdf4241-30ab-102d-86b0-7a5022ba4115";
+		public static final String TB_SUSPECT = "b80f04a4-1559-42fd-8923-f8a6d2456a04";
+		public static final String POST_EXPOSURE_PROPHYLAXIS = "966db6f2-a9f2-4e47-bba2-051467c77c17";
+		public static final String HCT_ENTRY_POINT = "720a1e85-ea1c-4f7b-a31e-cb896978df79";
+		public static final String MARPS = "b2706f7a-c4b8-4cd4-ad97-59396cf5bb3d";
+		public static final String LINKED_TO_CARE = "3d620422-0641-412e-ab31-5e45b98bc459";
+		public static final String CD4_COUNT = "dcbcba2c-30ab-102d-86b0-7a5022ba4115";
+		public static final String PARTNER_HIV_TEST_RESULT = "ee802cf2-295b-4297-b53c-205f794294a5";
+		public static final String HIV_NEGATIVE = "dcdf4653-30ab-102d-86b0-7a5022ba4115";
 
     }
     public static class Identifier{

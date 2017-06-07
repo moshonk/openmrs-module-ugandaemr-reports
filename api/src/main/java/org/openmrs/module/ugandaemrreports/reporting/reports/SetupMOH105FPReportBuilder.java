@@ -78,7 +78,7 @@ public class SetupMOH105FPReportBuilder extends UgandaEMRDataExportManager {
 
     @Override
     public String getName() {
-        return "HMIS 105 MCH - 2.5 FAMILY PLANNING METHODS";
+        return "HMIS 105 - SECTION 2.5: FAMILY PLANNING METHODS";
     }
 
     @Override
